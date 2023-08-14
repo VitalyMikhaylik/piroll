@@ -1,0 +1,165 @@
+.ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.h1{
+    margin-left: 600px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
+
+.div{
+    background-image: url("flat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+button{
+    padding: 10px 20px 10px 20px;
+    background-color: aquamarine;
+    border: 0px;
+}
+
+.about{
+    margin-top: 300px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.ul2{
+    list-style-type: none;
+}
+
+.projects{
+    background-color:  #0FC9C3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.screenshot{
+    display: flex;
+    flex-direction: row;
+}
+
+.screenshot2{
+    display: flex;
+    flex-direction: row;
+}
+
+.our{
+    text-align: center;
+}
+
+.screenshot3{
+    display: flex;
+    flex-direction: row;
+    background-color: #f3f3f3;
+    margin-top: 50px;
+}
+
+.screenshot4{
+    display: flex;
+    flex-direction: row;
+    background-color: #f3f3f3;
+}
+
+.be{
+    background-color: #0fcac3;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.services{
+    list-style-type: none;
+}
+
+.div2{
+    background-color: #0fcac3;
+    height: 5px;
+    width: 500px;
+    margin-bottom: 50px;
+
+}
+
+.scills{
+    padding-bottom: 100px;
+}
+
+.div3{
+    background-color: #0fcac3;
+    height: 5px;
+    width: 700px;
+}
+
+.div4{
+    background-color: #0fcac3;
+    height: 5px;
+    width: 400px;
+}
+
+.div5{
+    margin-top: 50px;
+}
+
+.div6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.p{
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.img{
+    width: 300px;
+    height: 250px;
+}
+
+.design{
+    text-align: center;
+}
+
+.ui{
+    text-align: center;
+}
+
+.img2{
+    margin-left: 125px;
+}
+
+.carrer{
+    list-style-type: none;
+}
+
+.carrer2{
+    list-style-type: none;
+}
+
+.div7{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.div8{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
